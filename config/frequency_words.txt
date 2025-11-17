@@ -1,13 +1,9 @@
-胖东来
-于东来
 
 DeepSeek
 梁文锋
 
 华为
-鸿蒙
-HarmonyOS
-任正非
+VIVO
 
 比亚迪
 王传福
@@ -23,64 +19,19 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
 申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
 
 chatgpt
 openai
-sora
 
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
+iOS
+Android
 
 ai
 !gai
 人工智能
+
+开源模型
 
 自动驾驶
 
@@ -90,8 +41,8 @@ ai
 中国
 
 美国
-日本
-韩国
+德国
+欧盟
 
 芯片
 光刻机
@@ -111,3 +62,41 @@ ai
 宇宙
 飞船
 航空
+
+空间站
+天宫
+中国
+国际
+
+SpaceX
+朱雀
+蓝箭航天
+天兵科技
+东方空间
+中科宇航
+
+军事
+航母
+
+航展
+珠海
+长春
+巴黎
+
+前端
+js
+CSS
+React
+Vue
+
+游戏
+英雄联盟
+暗黑破坏神
+dota2
+
+黑神话
+
+A股
+上证
+恒生
+标准普尔
