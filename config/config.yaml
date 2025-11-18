@@ -29,7 +29,7 @@ report:
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
-  enable_notification: false # 是否启用通知功能，如果 false，则不发送手机通知
+  enable_notification: true # 是否启用通知功能，如果 false，则不发送手机通知
   message_batch_size: 4000 # 消息分批大小（字节）(这个配置别动)
   dingtalk_batch_size: 20000 # 钉钉消息分批大小（字节）(这个配置也别动)
   feishu_batch_size: 29000 # 飞书消息分批大小（字节）
@@ -79,8 +79,6 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
-  - id: "baidu"
-    name: "百度热搜"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "thepaper"
@@ -93,8 +91,6 @@ platforms:
     name: "凤凰网"
   - id: "tieba"
     name: "贴吧"
-  - id: "weibo"
-    name: "微博"
   - id: "douyin"
     name: "抖音"
   - id: "zhihu"
@@ -105,3 +101,9 @@ platforms:
     name: "掘金"
   - id: "douban"
     name: "豆瓣"
+
+
+#  - id: "baidu"
+#    name: "百度热搜"
+#  - id: "weibo"
+#    name: "微博"

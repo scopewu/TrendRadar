@@ -2,9 +2,6 @@
 DeepSeek
 梁文锋
 
-华为
-VIVO
-
 比亚迪
 王传福
 
@@ -27,8 +24,9 @@ openai
 iOS
 Android
 
-ai
+AI
 !gai
+!谣言
 人工智能
 
 开源模型
@@ -77,26 +75,32 @@ SpaceX
 
 军事
 航母
+战斗机
 
 航展
-珠海
-长春
-巴黎
+珠海航展
+长春航展
+巴黎航展
 
+编程
 前端
-js
+
+JS
 CSS
 React
 Vue
+React Native
 
 游戏
 英雄联盟
 暗黑破坏神
-dota2
+DOTA2
 
 黑神话
 
-A股
 上证
 恒生
 标准普尔
+
+手机
++新品
