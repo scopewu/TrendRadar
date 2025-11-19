@@ -101,7 +101,8 @@ platforms:
     name: "掘金"
   - id: "douban"
     name: "豆瓣"
-
+  - id: "ithome"
+    name: "IT之家"
 
 #  - id: "baidu"
 #    name: "百度热搜"

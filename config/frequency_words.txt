@@ -17,9 +17,8 @@ DJI
 彭志辉
 
 申奥
-
-chatgpt
-openai
+欧洲杯
+世界杯
 
 iOS
 Android
@@ -32,6 +31,7 @@ AI
 开源模型
 
 自动驾驶
+萝卜快跑
 
 机器人
 
@@ -90,6 +90,8 @@ CSS
 React
 Vue
 React Native
+
+面试
 
 游戏
 英雄联盟
